@@ -213,3 +213,5 @@ require (
 )
 
 replace github.com/gin-gonic/gin => github.com/gin-gonic/gin v1.7.4
+
+replace github.com/kevinburke/twilio-go => github.com/expertonium/twilio-go v0.0.1
