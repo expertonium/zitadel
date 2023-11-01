@@ -718,7 +718,6 @@
   },
   "METADATA": {
     "TITLE": "Metadados",
-    "DESCRIPTION": "",
     "KEY": "Chave",
     "VALUE": "Valor",
     "ADD": "Nova Entrada",
@@ -1205,6 +1204,11 @@
         "ERROR": "Usuário não encontrado!",
         "PRIMARYBUTTON": "próximo",
         "SECONDARYBUTTON": "registrar"
+      },
+      "THEMEMODE": {
+        "THEME_MODE_AUTO": "Modo Automático",
+        "THEME_MODE_LIGHT": "Somente modo claro",
+        "THEME_MODE_DARK": "Somente modo escuro"
       }
     },
     "PWD_AGE": {
