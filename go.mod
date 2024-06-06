@@ -204,3 +204,5 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	nhooyr.io/websocket v1.8.11 // indirect
 )
+
+replace github.com/kevinburke/twilio-go => github.com/expertonium/twilio-go v0.0.1
